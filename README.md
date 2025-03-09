@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [AI Appraiser: Discover the value of your items with Gemini on Google Cloud](https://medium.com/google-cloud/ai-appraiser-discover-the-value-of-your-items-with-gemini-on-google-cloud-6aea13fc13c6?source=rss-56d387899b8b------2)
 - [Attention Evolved: How Multi-Head Latent Attention Works](https://medium.com/google-cloud/attention-evolved-how-multi-head-latent-attention-works-427a922dd6a1?source=rss-56d387899b8b------2)
 - [Get Started with n8n on Google Cloud for AI Workflow Automation](https://medium.com/google-cloud/get-started-with-n8n-on-google-cloud-for-ai-workflow-automation-3d399caab5df?source=rss-56d387899b8b------2)
 - [Model fine-tuning made easy with Axolotl on Google Cloud Batch](https://medium.com/google-cloud/model-fine-tuning-made-easy-with-axolotl-on-google-cloud-batch-e67d71208903?source=rss-56d387899b8b------2)
-- [How I built an agent with Pydantic AI and Google Gemini](https://medium.com/google-cloud/how-i-built-an-agent-with-pydantic-ai-and-google-gemini-4887e5dd041d?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
