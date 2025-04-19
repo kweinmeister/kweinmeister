@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Architecting a Multi-Agent System with Google A2A and ADK](https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a?source=rss-56d387899b8b------2)
 - [Build AI Agents your way on Google Cloud](https://medium.com/google-cloud/build-ai-agents-your-way-on-google-cloud-7e64e76550bc?source=rss-56d387899b8b------2)
 - [How to Deploy ADK Agents onto Google Cloud Run](https://medium.com/google-cloud/how-to-deploy-adk-agents-onto-google-cloud-run-5bbd62049a19?source=rss-56d387899b8b------2)
 - [Serving the OpenHands LM Coding Model: A GKE and vLLM Deployment Guide](https://medium.com/google-cloud/serving-the-openhands-lm-coding-model-a-gke-and-vllm-deployment-guide-96ab7932586a?source=rss-56d387899b8b------2)
-- [Getting started with Rust on Google Cloud](https://medium.com/google-cloud/getting-started-with-rust-on-google-cloud-ced48447ec91?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
