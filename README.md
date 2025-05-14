@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your prompt size for long context window LLMs](https://medium.com/google-cloud/optimize-your-prompt-size-for-long-context-window-llms-0a5c2bab4a0f?source=rss-56d387899b8b------2)
 - [Build a RAG system for your codebase in 5 easy steps](https://medium.com/google-cloud/build-a-rag-system-for-your-codebase-in-5-easy-steps-a3506c10599b?source=rss-56d387899b8b------2)
 - [From Idea to MVP in Record Time with AI-Powered Prototyping](https://medium.com/google-cloud/from-idea-to-mvp-in-record-time-with-ai-powered-prototyping-ce00187181c4?source=rss-56d387899b8b------2)
 - [Architecting a Multi-Agent System with Google A2A and ADK](https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a?source=rss-56d387899b8b------2)
-- [Build AI Agents your way on Google Cloud](https://medium.com/google-cloud/build-ai-agents-your-way-on-google-cloud-7e64e76550bc?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
