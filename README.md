@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Deployment with AI Studio, Cloud Run, and Jules](https://medium.com/google-cloud/vibe-deployment-with-ai-studio-cloud-run-and-jules-8ae02807b68f?source=rss-56d387899b8b------2)
 - [Detecting AI-Generated Text by Uncovering Its Statistical “Tells”](https://medium.com/google-cloud/detecting-ai-generated-text-by-uncovering-its-statistical-tells-042c8d0e3a24?source=rss-56d387899b8b------2)
 - [Agentic Forecasting with Google’s Agent Development Kit in Java](https://medium.com/@kweinmeister/agentic-forecasting-with-googles-agent-development-kit-in-java-c0557afead1f?source=rss-56d387899b8b------2)
 - [Optimize your prompt size for long context window LLMs](https://medium.com/google-cloud/optimize-your-prompt-size-for-long-context-window-llms-0a5c2bab4a0f?source=rss-56d387899b8b------2)
-- [Build a RAG system for your codebase in 5 easy steps](https://medium.com/google-cloud/build-a-rag-system-for-your-codebase-in-5-easy-steps-a3506c10599b?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
