@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest Way to Run the Gemini CLI: A Deep Dive into Package Managers](https://medium.com/google-cloud/the-fastest-way-to-run-the-gemini-cli-a-deep-dive-into-package-managers-8ee8318c5ffa?source=rss-56d387899b8b------2)
 - [AI-Native Test Automation is Here](https://medium.com/google-cloud/ai-native-test-automation-is-here-5b096ac12851?source=rss-56d387899b8b------2)
 - [6 ways to become a database pro with the Gemini CLI](https://medium.com/google-cloud/6-ways-to-become-a-database-pro-with-the-gemini-cli-793c94a5859b?source=rss-56d387899b8b------2)
 - [Vibe Deployment with AI Studio, Cloud Run, and Jules](https://medium.com/google-cloud/vibe-deployment-with-ai-studio-cloud-run-and-jules-8ae02807b68f?source=rss-56d387899b8b------2)
-- [Detecting AI-Generated Text by Uncovering Its Statistical “Tells”](https://medium.com/google-cloud/detecting-ai-generated-text-by-uncovering-its-statistical-tells-042c8d0e3a24?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
