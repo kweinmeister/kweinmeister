@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Agency Spectrum: An AI Risk Management Framework](https://medium.com/google-cloud/the-agency-spectrum-an-ai-risk-management-framework-4d02e536a406?source=rss-56d387899b8b------2)
 - [How to Write Better Python with Ruff on Google Cloud](https://medium.com/google-cloud/how-to-write-better-python-with-ruff-on-google-cloud-33bc6208ea71?source=rss-56d387899b8b------2)
 - [Build with your Favorite Models from the Vertex AI Model Garden with LiteLLM](https://medium.com/google-cloud/build-with-your-favorite-models-from-the-vertex-ai-model-garden-with-litellm-0b140bf52a01?source=rss-56d387899b8b------2)
 - [A Developer’s Guide to Model Routing](https://medium.com/google-cloud/a-developers-guide-to-model-routing-1f21ecc34d60?source=rss-56d387899b8b------2)
-- [Build a Blazing Fast API in Minutes with Hono and Cloud Run](https://medium.com/google-cloud/build-a-blazing-fast-api-in-minutes-with-hono-and-cloud-run-d3548cba99a0?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
