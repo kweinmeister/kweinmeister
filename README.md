@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Faster with Terraform: Your Guide to vLLM on GKE with Infrastructure-as-Code](https://medium.com/google-cloud/deploy-faster-with-terraform-your-guide-to-vllm-on-gke-with-infrastructure-as-code-925094e7d2a5?source=rss-56d387899b8b------2)
 - [The Agency Spectrum: An AI Risk Management Framework](https://medium.com/google-cloud/the-agency-spectrum-an-ai-risk-management-framework-4d02e536a406?source=rss-56d387899b8b------2)
 - [How to Write Better Python with Ruff on Google Cloud](https://medium.com/google-cloud/how-to-write-better-python-with-ruff-on-google-cloud-33bc6208ea71?source=rss-56d387899b8b------2)
 - [Build with your Favorite Models from the Vertex AI Model Garden with LiteLLM](https://medium.com/google-cloud/build-with-your-favorite-models-from-the-vertex-ai-model-garden-with-litellm-0b140bf52a01?source=rss-56d387899b8b------2)
-- [A Developer’s Guide to Model Routing](https://medium.com/google-cloud/a-developers-guide-to-model-routing-1f21ecc34d60?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
