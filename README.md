@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Six Failures of Text-to-SQL &lpar;And How to Fix Them with Agents&rpar;](https://medium.com/@kweinmeister/the-six-failures-of-text-to-sql-and-how-to-fix-them-with-agents-ef5fd2b74b68?source=rss-56d387899b8b------2)
 - [Python and Rust interoperability: A walkthrough for building a high performance MCP server](https://medium.com/google-cloud/python-and-rust-interoperability-a-walkthrough-for-building-a-high-performance-mcp-server-56c04e4b651b?source=rss-56d387899b8b------2)
 - [Deploy Faster with Terraform: Your Guide to vLLM on GKE with Infrastructure-as-Code](https://medium.com/google-cloud/deploy-faster-with-terraform-your-guide-to-vllm-on-gke-with-infrastructure-as-code-925094e7d2a5?source=rss-56d387899b8b------2)
 - [The Agency Spectrum: An AI Risk Management Framework](https://medium.com/google-cloud/the-agency-spectrum-an-ai-risk-management-framework-4d02e536a406?source=rss-56d387899b8b------2)
-- [How to Write Better Python with Ruff on Google Cloud](https://medium.com/google-cloud/how-to-write-better-python-with-ruff-on-google-cloud-33bc6208ea71?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
