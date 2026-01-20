@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Engineering in Go with the Google ADK](https://medium.com/google-cloud/ai-agent-engineering-in-go-with-the-google-adk-4f2a992c6db4?source=rss-56d387899b8b------2)
 - [Run LLMs anywhere: Local and CPU inference with ONNX Runtime GenAI](https://medium.com/google-cloud/run-llms-anywhere-local-and-cpu-inference-with-onnx-runtime-genai-9bc34dbf0d7d?source=rss-56d387899b8b------2)
 - [Save Tokens with TOON using Google Antigravity and the Gemini CLI](https://medium.com/google-cloud/save-tokens-with-toon-using-google-antigravity-and-the-gemini-cli-e9a641c06ea8?source=rss-56d387899b8b------2)
 - [The Six Failures of Text-to-SQL &lpar;And How to Fix Them with Agents&rpar;](https://medium.com/google-cloud/the-six-failures-of-text-to-sql-and-how-to-fix-them-with-agents-ef5fd2b74b68?source=rss-56d387899b8b------2)
-- [Python and Rust interoperability: A walkthrough for building a high performance MCP server](https://medium.com/google-cloud/python-and-rust-interoperability-a-walkthrough-for-building-a-high-performance-mcp-server-56c04e4b651b?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
