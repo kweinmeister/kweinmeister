@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Predictive Analytics Reimagined with BigQuery Conversational Analytics](https://medium.com/@kweinmeister/predictive-analytics-reimagined-with-bigquery-conversational-analytics-e8049a2c6173?source=rss-56d387899b8b------2)
 - [Performance shouldn’t be an afterthought: Hardening the AI-Assisted SDLC](https://medium.com/google-cloud/performance-shouldnt-be-an-afterthought-hardening-the-ai-assisted-sdlc-a97404804ea0?source=rss-56d387899b8b------2)
 - [AI Agent Engineering in Go with the Google ADK](https://medium.com/google-cloud/ai-agent-engineering-in-go-with-the-google-adk-4f2a992c6db4?source=rss-56d387899b8b------2)
 - [Run LLMs anywhere: Local and CPU inference with ONNX Runtime GenAI](https://medium.com/google-cloud/run-llms-anywhere-local-and-cpu-inference-with-onnx-runtime-genai-9bc34dbf0d7d?source=rss-56d387899b8b------2)
-- [Save Tokens with TOON using Google Antigravity and the Gemini CLI](https://medium.com/google-cloud/save-tokens-with-toon-using-google-antigravity-and-the-gemini-cli-e9a641c06ea8?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
