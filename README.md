@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Skills Made Easy with Google Antigravity and Gemini CLI](https://medium.com/google-cloud/skills-made-easy-with-google-antigravity-and-gemini-cli-5435139b0af8?source=rss-56d387899b8b------2)
 - [Serving Qwen 3.5 on Cloud Run with Blackwell GPUs](https://medium.com/google-cloud/serving-qwen-3-5-on-cloud-run-with-blackwell-gpus-4a74fd136699?source=rss-56d387899b8b------2)
 - [I Taught My AI Coding Agent to Write YouTube Descriptions](https://medium.com/google-cloud/i-taught-my-ai-coding-agent-to-write-youtube-descriptions-fdf7f200abac?source=rss-56d387899b8b------2)
 - [What are the Trends in Agent Discoverability and Interoperability?](https://medium.com/google-cloud/what-are-the-trends-in-agent-discoverability-and-interoperability-91865e098365?source=rss-56d387899b8b------2)
-- [Predictive Analytics Reimagined with BigQuery Conversational Analytics](https://medium.com/google-cloud/predictive-analytics-reimagined-with-bigquery-conversational-analytics-e8049a2c6173?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
