@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the Gemini Deep Research API in Production](https://medium.com/google-cloud/how-to-use-the-gemini-deep-research-api-in-production-978055873a39?source=rss-56d387899b8b------2)
 - [How to build GenAI apps for resilience with TypeScript](https://medium.com/google-cloud/how-to-build-genai-apps-for-resilience-with-typescript-06908aca62c2?source=rss-56d387899b8b------2)
 - [Skills Made Easy with Google Antigravity and Gemini CLI](https://medium.com/google-cloud/skills-made-easy-with-google-antigravity-and-gemini-cli-5435139b0af8?source=rss-56d387899b8b------2)
 - [Serving Qwen 3.5 on Cloud Run with Blackwell GPUs](https://medium.com/google-cloud/serving-qwen-3-5-on-cloud-run-with-blackwell-gpus-4a74fd136699?source=rss-56d387899b8b------2)
-- [I Taught My AI Coding Agent to Write YouTube Descriptions](https://medium.com/google-cloud/i-taught-my-ai-coding-agent-to-write-youtube-descriptions-fdf7f200abac?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
