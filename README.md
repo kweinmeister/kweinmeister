@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Do Large Language Models follow Benford’s Law?](https://medium.com/google-cloud/do-large-language-models-follow-benfords-law-c47c9f0f9070?source=rss-56d387899b8b------2)
 - [Run Karpathy’s autoresearch on a Google serverless stack for $2/hour](https://medium.com/google-cloud/run-karpathys-autoresearch-on-a-google-serverless-stack-for-2-hour-210fc8e2a829?source=rss-56d387899b8b------2)
 - [What you need to know about the Gemini Embedding 2 model](https://medium.com/google-cloud/what-you-need-to-know-about-the-gemini-embedding-2-model-c7721a89a067?source=rss-56d387899b8b------2)
 - [How to Use the Gemini Deep Research API in Production](https://medium.com/google-cloud/how-to-use-the-gemini-deep-research-api-in-production-978055873a39?source=rss-56d387899b8b------2)
-- [How to build GenAI apps for resilience with TypeScript](https://medium.com/google-cloud/how-to-build-genai-apps-for-resilience-with-typescript-06908aca62c2?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
