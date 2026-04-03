@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [AI Code Reviews with Gemini CLI on GitHub Enterprise Server](https://medium.com/google-cloud/ai-code-reviews-with-gemini-cli-on-github-enterprise-server-c21ea56da074?source=rss-56d387899b8b------2)
 - [How I overhauled my app UI in minutes with Stitch and AI Studio](https://medium.com/google-cloud/how-i-overhauled-my-app-ui-in-minutes-with-stitch-and-ai-studio-524b965c3d45?source=rss-56d387899b8b------2)
 - [Do Large Language Models follow Benford’s Law?](https://medium.com/google-cloud/do-large-language-models-follow-benfords-law-c47c9f0f9070?source=rss-56d387899b8b------2)
 - [Run Karpathy’s autoresearch on a Google serverless stack for $2/hour](https://medium.com/google-cloud/run-karpathys-autoresearch-on-a-google-serverless-stack-for-2-hour-210fc8e2a829?source=rss-56d387899b8b------2)
-- [What you need to know about the Gemini Embedding 2 model](https://medium.com/google-cloud/what-you-need-to-know-about-the-gemini-embedding-2-model-c7721a89a067?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
