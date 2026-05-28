@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Build an MCP server to solve your annoying workflow problems](https://medium.com/google-cloud/build-an-mcp-server-to-solve-your-annoying-workflow-problems-aa696d5ccf44?source=rss-56d387899b8b------2)
 - [A Practical Guide to Evaluating Multi-Turn Agent Trajectories](https://medium.com/google-cloud/a-practical-guide-to-evaluating-multi-turn-agent-trajectories-bc21042dbac8?source=rss-56d387899b8b------2)
 - [Run multiple coding agents safely with git worktrees](https://medium.com/google-cloud/run-multiple-coding-agents-safely-with-git-worktrees-c2d237dbd6b2?source=rss-56d387899b8b------2)
 - [On-Device AI with the Google AI Edge Gallery and Gemma 4](https://medium.com/google-cloud/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-1c31a220d3ee?source=rss-56d387899b8b------2)
-- [AI Code Reviews with Gemini CLI on GitHub Enterprise Server](https://medium.com/google-cloud/ai-code-reviews-with-gemini-cli-on-github-enterprise-server-c21ea56da074?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
