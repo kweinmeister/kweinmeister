@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Five essential testing patterns for AI agent development](https://medium.com/google-cloud/five-essential-testing-patterns-for-ai-agent-development-002a746378ce?source=rss-56d387899b8b------2)
 - [How to turn a 180% commit boost into shipped software](https://medium.com/google-cloud/how-to-turn-a-180-commit-boost-into-shipped-software-da9d57058994?source=rss-56d387899b8b------2)
 - [Google Antigravity SDK: The developer guide](https://medium.com/google-cloud/google-antigravity-sdk-the-developer-guide-7770ad8a5f53?source=rss-56d387899b8b------2)
 - [Build an MCP server to solve your annoying workflow problems](https://medium.com/google-cloud/build-an-mcp-server-to-solve-your-annoying-workflow-problems-aa696d5ccf44?source=rss-56d387899b8b------2)
-- [A Practical Guide to Evaluating Multi-Turn Agent Trajectories](https://medium.com/google-cloud/a-practical-guide-to-evaluating-multi-turn-agent-trajectories-bc21042dbac8?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
