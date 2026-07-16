@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Four math concepts to improve your vibe coding](https://medium.com/google-cloud/four-math-concepts-to-improve-your-vibe-coding-f48ac3964cea?source=rss-56d387899b8b------2)
 - [The future of autonomous software maintenance: a dependency update agent](https://medium.com/google-cloud/the-future-of-autonomous-software-maintenance-a-dependency-update-agent-2a589a60ef21?source=rss-56d387899b8b------2)
 - [What does FDE at scale look like? DevRel Engineering.](https://medium.com/@kweinmeister/what-does-fde-at-scale-look-like-devrel-engineering-d0999298b1ee?source=rss-56d387899b8b------2)
 - [Five essential testing patterns for AI agent development](https://medium.com/google-cloud/five-essential-testing-patterns-for-ai-agent-development-002a746378ce?source=rss-56d387899b8b------2)
-- [How to turn a 180% commit boost into shipped software](https://medium.com/google-cloud/how-to-turn-a-180-commit-boost-into-shipped-software-da9d57058994?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
