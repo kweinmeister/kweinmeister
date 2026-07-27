@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why I write skills instead of agents for knowledge work](https://medium.com/google-cloud/why-i-write-skills-instead-of-agents-for-knowledge-work-f5a08d1dc3e7?source=rss-56d387899b8b------2)
 - [Four math concepts to improve your vibe coding](https://medium.com/google-cloud/four-math-concepts-to-improve-your-vibe-coding-f48ac3964cea?source=rss-56d387899b8b------2)
 - [The future of autonomous software maintenance: a dependency update agent](https://medium.com/google-cloud/the-future-of-autonomous-software-maintenance-a-dependency-update-agent-2a589a60ef21?source=rss-56d387899b8b------2)
 - [What does FDE at scale look like? DevRel Engineering.](https://medium.com/@kweinmeister/what-does-fde-at-scale-look-like-devrel-engineering-d0999298b1ee?source=rss-56d387899b8b------2)
-- [Five essential testing patterns for AI agent development](https://medium.com/google-cloud/five-essential-testing-patterns-for-ai-agent-development-002a746378ce?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
