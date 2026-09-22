@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Jev-style classifier with DiffusionGemma and vLLM](https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7?source=rss-56d387899b8b------2)
 - [Do agent skills help? I ran 72 trials to find out](https://medium.com/google-cloud/do-agent-skills-help-i-ran-72-trials-to-find-out-b328ba4d66b2?source=rss-56d387899b8b------2)
 - [5 things you shouldn’t vibe code &lpar;and what to use instead&rpar;](https://medium.com/google-cloud/5-things-you-shouldnt-vibe-code-and-what-to-use-instead-330c875ccb83?source=rss-56d387899b8b------2)
 - [How I Planned an Italy Trip with an Agentic Workflow](https://medium.com/google-cloud/how-i-planned-an-italy-trip-with-an-agentic-workflow-004346e81aac?source=rss-56d387899b8b------2)
-- [Why I write skills instead of agents for knowledge work](https://medium.com/google-cloud/why-i-write-skills-instead-of-agents-for-knowledge-work-f5a08d1dc3e7?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
