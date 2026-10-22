@@ -5,10 +5,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [When to use a diffusion LLM: I compared DiffusionGemma and Gemma 4](https://medium.com/google-cloud/when-to-use-a-diffusion-llm-i-compared-diffusiongemma-and-gemma-4-0e5704b67458?source=rss-56d387899b8b------2)
 - [How I automate 95% of my video workflow with AI coding agents](https://medium.com/google-cloud/how-i-automate-95-of-my-video-workflow-with-ai-coding-agents-90dd4a87c53f?source=rss-56d387899b8b------2)
 - [How to build a Jev-style classifier with DiffusionGemma and vLLM](https://medium.com/google-cloud/how-to-build-a-jev-style-classifier-with-diffusiongemma-and-vllm-ef2e0bfa9ad7?source=rss-56d387899b8b------2)
 - [Do agent skills help? I ran 72 trials to find out](https://medium.com/google-cloud/do-agent-skills-help-i-ran-72-trials-to-find-out-b328ba4d66b2?source=rss-56d387899b8b------2)
-- [5 things you shouldn’t vibe code &lpar;and what to use instead&rpar;](https://medium.com/google-cloud/5-things-you-shouldnt-vibe-code-and-what-to-use-instead-330c875ccb83?source=rss-56d387899b8b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
